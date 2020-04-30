@@ -1,0 +1,12 @@
+p {
+    border: 5px solid #f44260;
+    width: 200px;
+    color: white;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 24px;
+}
+
