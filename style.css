@@ -1,12 +1,19 @@
 p {
-    border: 5px solid #f44260;
+    border: 1px solid black;
     width: 200px;
-    color: white;
-    margin: 0;
-    padding: 20px;
+    color: black;
     text-align: center;
     font-family: Arial;
-    font-weight: bold;
     font-size: 24px;
+    margin: 0px;
 }
 
+title {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.p3:hover {
+    background-color: orange;
+  }
